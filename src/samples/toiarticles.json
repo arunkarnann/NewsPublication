@@ -1,0 +1,31 @@
+    {
+        "status": "ok",
+        "feed": {
+            "url": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms",
+            "title": "Chennai News, Latest Chennai News Headlines &amp; Live Updates - Times of India",
+            "link": "https://timesofindia.indiatimes.com/articlelist/2950623.cms",
+            "author": "",
+            "description": "Chennai News. TOI brings the latest Chennai news headlines about Chennai crime, Chennai education news, Chennai real estate news, Chennai politics and Live Updates on local Chennai news from Times of India - Chennai news section.",
+            "image": "https://timesofindia.indiatimes.com/photo/507610.cms"
+        },
+        "items": [
+            {
+                "title": "Chennai: Dad kills 44-yr-old mentally ill son",
+                "pubDate": "2019-11-02 01:02:58",
+                "link": "https://timesofindia.indiatimes.com/city/chennai/chennai-dad-82-kills-44-year-old-mentally-ill-son/articleshow/71860744.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/chennai/chennai-dad-82-kills-44-year-old-mentally-ill-son/articleshow/71860744.cms",
+                "author": "",
+                "thumbnail": "https://timesofindia.indiatimes.com/photo/71860744.cms"
+            },
+            {
+                "title": "False alarm forces flight to return to Chennai",
+                "pubDate": "2019-11-02 01:09:24",
+                "link": "https://timesofindia.indiatimes.com/city/chennai/false-alarm-forces-flight-to-return-to-chennai/articleshow/71860757.cms",
+                "guid": "https://timesofindia.indiatimes.com/city/chennai/false-alarm-forces-flight-to-return-to-chennai/articleshow/71860757.cms",
+                "author": "",
+                "thumbnail": "https://timesofindia.indiatimes.com/photo/71860757.cms"                
+            }
+            
+        ]
+    }
+
