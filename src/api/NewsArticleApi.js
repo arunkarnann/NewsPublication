@@ -8,7 +8,8 @@ const articles = async (params) =>{
 
 const getAllArticles = async(params) => {
     let response = ""
-    response = await axios.get("https://api.myjson.com/bins/1dkxi4");
+    let category = params
+    response = await axios.get(`https://newsapi.org/v2/top-headlines?country=in&category=${category}&apiKey=2ecac265d54148ac96ba268ba91ea49f`);
     console.log(response);
     return response;
     // .then(data => {console.log("all data"); console.log(data); return data;})
